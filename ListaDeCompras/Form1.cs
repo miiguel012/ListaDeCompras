@@ -10,11 +10,31 @@ using System.Windows.Forms;
 
 namespace ListaDeCompras
 {
-    public partial class Form1 : Form
+    public partial class pibLogo : Form
     {
-        public Form1()
+        public pibLogo()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblNomeProduto_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdicionar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
